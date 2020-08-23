@@ -1,0 +1,2 @@
+# ACC-Server-Creation-Tool
+First use of tkinter GUI implementation in python. When hosting a server for the game Assetto Corsa Competizione, server settings are stored as JSON files. Editing these files requires knowledge of the values they accept and must be done through a text editor. This programme solves this problem by using a GUI which only allows accepted values in each field, and then creates the JSON files for the user. 
